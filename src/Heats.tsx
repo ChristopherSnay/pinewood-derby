@@ -14,7 +14,7 @@ export default function Heats() {
     const [data, setData] = useState<Result[]>([]);
 
     useEffect(() => {
-        fetch('/results.json')
+        fetch(`${import.meta.env.BASE_URL}results.json`)
             .then(res => res.json())
             .then(setData);
     }, []);

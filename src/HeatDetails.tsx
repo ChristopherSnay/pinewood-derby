@@ -16,7 +16,7 @@ export default function HeatDetails () {
     const [showChart, setShowChart] = useState<Record<string, boolean>>({});
 
     useEffect(() => {
-        fetch('/results.json')
+        fetch(`${import.meta.env.BASE_URL}results.json`)
             .then(res => res.json())
             .then(setData);
     }, []);

@@ -23,7 +23,7 @@ export default function Overall() {
     const [data, setData] = useState<StandingsEntry[]>([]);
 
     useEffect(() => {
-        fetch('/standings.json')
+        fetch(`${import.meta.env.BASE_URL}standings.json`)
             .then(r => r.json())
             .then((d: StandingsEntry[]) => setData(d || []));
     }, []);
