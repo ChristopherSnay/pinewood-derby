@@ -1,0 +1,57 @@
+Class,Round,Heat,Lane,FirstName,LastName,CarNumber,CarName,FinishTime,Scale MPH,FinishPlace,Completed
+Default,1,1,2,Michael,,3,Red,2.49,219.1,2,2026-03-15 13:45:18
+Default,1,1,4,Declan,,2,Green w/ Glitter,2.481,219.9,1,2026-03-15 13:45:18
+Default,1,1,1,Jace,,1,Black w/ Red Stripe,2.558,213.2,3,2026-03-15 13:45:19
+Default,1,1,3,Emery,,5,Camo,2.669,204.4,4,2026-03-15 13:45:19
+Default,1,2,3,Damon,,4,Red w/ Black Stripe,2.499,218.3,1,2026-03-15 13:47:06
+Default,1,2,1,Jace,,1,Black w/ Red Stripe,2.577,211.7,3,2026-03-15 13:47:07
+Default,1,2,2,Finegan,,6,Green Frog,2.546,214.2,2,2026-03-15 13:47:07
+Default,1,2,4,EJ,,7,Pizza,3.525,154.7,4,2026-03-15 13:47:07
+Default,1,3,2,Damon,,4,Red w/ Black Stripe,2.49,219.1,1,2026-03-15 13:54:28
+Default,1,3,1,Declan,,2,Green w/ Glitter,2.494,218.7,2,2026-03-15 13:54:29
+Default,1,3,3,Finegan,,6,Green Frog,2.554,213.6,4,2026-03-15 13:54:29
+Default,1,3,4,Michael,,3,Red,2.505,217.7,3,2026-03-15 13:54:29
+Default,1,4,1,Michael,,3,Red,2.492,218.9,2,2026-03-15 13:56:04
+Default,1,4,2,Emery,,5,Camo,2.77,196.9,3,2026-03-15 13:56:04
+Default,1,4,3,EJ,,7,Pizza,3.446,158.3,4,2026-03-15 13:56:04
+Default,1,4,4,Damon,,4,Red w/ Black Stripe,2.476,220.3,1,2026-03-15 13:56:04
+Default,1,5,3,Declan,,2,Green w/ Glitter,2.497,218.4,1,2026-03-15 13:57:17
+Default,1,5,1,Emery,,5,Camo,2.686,203.1,3,2026-03-15 13:57:18
+Default,1,5,2,EJ,,7,Pizza,3.078,177.2,4,2026-03-15 13:57:18
+Default,1,5,4,Finegan,,6,Green Frog,2.549,214,2,2026-03-15 13:57:18
+Default,1,6,1,Damon,,4,Red w/ Black Stripe,2.485,219.5,1,2026-03-15 14:00:12
+Default,1,6,2,Finegan,,6,Green Frog,2.571,212.2,2,2026-03-15 14:00:12
+Default,1,6,3,Jace,,1,Black w/ Red Stripe,2.571,212.2,2,2026-03-15 14:00:12
+Default,1,6,4,Emery,,5,Camo,2.696,202.3,4,2026-03-15 14:00:12
+Default,1,7,1,Finegan,,6,Green Frog,2.565,212.7,2,2026-03-15 14:02:13
+Default,1,7,3,Michael,,3,Red,2.494,218.7,1,2026-03-15 14:02:13
+Default,1,7,2,Jace,,1,Black w/ Red Stripe,2.582,211.3,3,2026-03-15 14:02:14
+Default,1,7,4,EJ,,7,Pizza,3.727,146.4,4,2026-03-15 14:02:14
+Default,1,8,1,EJ,,7,Pizza,4.136,131.9,4,2026-03-15 14:03:38
+Default,1,8,2,Declan,,2,Green w/ Glitter,2.497,218.4,2,2026-03-15 14:03:38
+Default,1,8,3,Damon,,4,Red w/ Black Stripe,2.479,220,1,2026-03-15 14:03:38
+Default,1,8,4,Jace,,1,Black w/ Red Stripe,2.565,212.7,3,2026-03-15 14:03:38
+Default,1,9,1,Michael,,3,Red,2.491,219,1,2026-03-15 14:04:51
+Default,1,9,2,Jace,,1,Black w/ Red Stripe,2.57,212.2,4,2026-03-15 14:04:51
+Default,1,9,3,Finegan,,6,Green Frog,2.54,214.7,3,2026-03-15 14:04:51
+Default,1,9,4,Declan,,2,Green w/ Glitter,2.494,218.7,2,2026-03-15 14:04:51
+Default,1,10,1,Declan,,2,Green w/ Glitter,2.493,218.8,1,2026-03-15 14:06:17
+Default,1,10,2,EJ,,7,Pizza,3.883,140.5,4,2026-03-15 14:06:17
+Default,1,10,3,Emery,,5,Camo,2.696,202.3,3,2026-03-15 14:06:17
+Default,1,10,4,Jace,,1,Black w/ Red Stripe,2.56,213.1,2,2026-03-15 14:06:17
+Default,1,11,1,Damon,,4,Red w/ Black Stripe,2.481,219.9,1,2026-03-15 14:07:45
+Default,1,11,2,Declan,,2,Green w/ Glitter,2.492,218.9,3,2026-03-15 14:07:45
+Default,1,11,4,Michael,,3,Red,2.484,219.6,2,2026-03-15 14:07:45
+Default,1,11,3,EJ,,7,Pizza,3.816,142.9,4,2026-03-15 14:07:46
+Default,1,12,1,Emery,,5,Camo,2.706,201.6,4,2026-03-15 14:09:02
+Default,1,12,2,Michael,,3,Red,2.491,219,2,2026-03-15 14:09:02
+Default,1,12,3,Jace,,1,Black w/ Red Stripe,2.591,210.5,3,2026-03-15 14:09:02
+Default,1,12,4,Damon,,4,Red w/ Black Stripe,2.48,219.9,1,2026-03-15 14:09:02
+Default,1,13,2,Damon,,4,Red w/ Black Stripe,2.485,219.5,1,2026-03-15 14:10:30
+Default,1,13,3,Declan,,2,Green w/ Glitter,2.493,218.8,2,2026-03-15 14:10:30
+Default,1,13,1,Finegan,,6,Green Frog,2.561,213,3,2026-03-15 14:10:31
+Default,1,13,4,Emery,,5,Camo,2.673,204.1,4,2026-03-15 14:10:31
+Default,1,14,1,EJ,,7,Pizza,3.573,152.7,4,2026-03-15 14:12:04
+Default,1,14,2,Emery,,5,Camo,2.7,202,3,2026-03-15 14:12:04
+Default,1,14,3,Michael,,3,Red,2.477,220.2,1,2026-03-15 14:12:04
+Default,1,14,4,Finegan,,6,Green Frog,2.553,213.7,2,2026-03-15 14:12:04

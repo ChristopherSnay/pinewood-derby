@@ -1,0 +1,72 @@
+[
+  {
+    "Place": "1",
+    "Car Number": "4",
+    "Name": "Damon ",
+    "Car Name": "Red w/ Black Stripe",
+    "Heats": "8",
+    "Average": "2.484",
+    "Best": "2.476",
+    "Worst": "2.499"
+  },
+  {
+    "Place": "2",
+    "Car Number": "3",
+    "Name": "Michael ",
+    "Car Name": "Red",
+    "Heats": "8",
+    "Average": "2.49",
+    "Best": "2.477",
+    "Worst": "2.505"
+  },
+  {
+    "Place": "3",
+    "Car Number": "2",
+    "Name": "Declan ",
+    "Car Name": "Green w/ Glitter",
+    "Heats": "8",
+    "Average": "2.493",
+    "Best": "2.481",
+    "Worst": "2.497"
+  },
+  {
+    "Place": "4",
+    "Car Number": "6",
+    "Name": "Finegan ",
+    "Car Name": "Green Frog",
+    "Heats": "8",
+    "Average": "2.555",
+    "Best": "2.54",
+    "Worst": "2.571"
+  },
+  {
+    "Place": "5",
+    "Car Number": "1",
+    "Name": "Jace ",
+    "Car Name": "Black w/ Red Stripe",
+    "Heats": "8",
+    "Average": "2.572",
+    "Best": "2.558",
+    "Worst": "2.591"
+  },
+  {
+    "Place": "6",
+    "Car Number": "5",
+    "Name": "Emery ",
+    "Car Name": "Camo",
+    "Heats": "8",
+    "Average": "2.7",
+    "Best": "2.669",
+    "Worst": "2.77"
+  },
+  {
+    "Place": "7",
+    "Car Number": "7",
+    "Name": "EJ ",
+    "Car Name": "Pizza",
+    "Heats": "8",
+    "Average": "3.648",
+    "Best": "3.078",
+    "Worst": "4.136"
+  }
+]
